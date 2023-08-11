@@ -1,0 +1,14 @@
+/home/gustavo/advinhe-o-numero/obj/Debug/net7.0/advinhe-o-numero.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/advinhe-o-numero/obj/Debug/net7.0/advinhe-o-numero.AssemblyInfoInputs.cache
+/home/gustavo/advinhe-o-numero/obj/Debug/net7.0/advinhe-o-numero.AssemblyInfo.cs
+/home/gustavo/advinhe-o-numero/obj/Debug/net7.0/advinhe-o-numero.csproj.CoreCompileInputs.cache
+/home/gustavo/advinhe-o-numero/bin/Debug/net7.0/advinhe-o-numero
+/home/gustavo/advinhe-o-numero/bin/Debug/net7.0/advinhe-o-numero.deps.json
+/home/gustavo/advinhe-o-numero/bin/Debug/net7.0/advinhe-o-numero.runtimeconfig.json
+/home/gustavo/advinhe-o-numero/bin/Debug/net7.0/advinhe-o-numero.dll
+/home/gustavo/advinhe-o-numero/bin/Debug/net7.0/advinhe-o-numero.pdb
+/home/gustavo/advinhe-o-numero/obj/Debug/net7.0/advinhe-o-numero.dll
+/home/gustavo/advinhe-o-numero/obj/Debug/net7.0/refint/advinhe-o-numero.dll
+/home/gustavo/advinhe-o-numero/obj/Debug/net7.0/advinhe-o-numero.pdb
+/home/gustavo/advinhe-o-numero/obj/Debug/net7.0/advinhe-o-numero.genruntimeconfig.cache
+/home/gustavo/advinhe-o-numero/obj/Debug/net7.0/ref/advinhe-o-numero.dll

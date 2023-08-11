@@ -1,10 +1,10 @@
 ﻿Random random = new Random();
 int secretNumber = random.Next(1, 100);
-
+int guess = 0;
 do
 {
     Console.WriteLine("Type a number between 1 and 100: ");
-    int guess = int.Parse(Console.ReadLine());
+    guess = int.Parse(Console.ReadLine());
 
     if (guess == secretNumber)
     {
@@ -19,4 +19,4 @@ do
         Console.WriteLine("Guess bigger");
     }
 } 
-while (true);
+while (guess != secretNumber);
